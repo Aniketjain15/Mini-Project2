@@ -1,1 +1,1 @@
-# Mini-Project2
+# Photography-based website  Mini-Project2(html & CSS)
